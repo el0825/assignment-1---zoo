@@ -1,0 +1,31 @@
+#zebra {
+    font-family: Tahoma, sans-serif;
+    background-color: #F5F5F5;
+    text-align: center;
+    color: #333;
+}
+
+#zebra img {
+    border-radius: 10px;
+    margin: 20px 0;
+    width: 400px;
+}
+
+#zebra p {
+    width: 80%;
+    margin: 0 auto 30px;
+    font-size: 18px;
+    line-height: 1.5;
+}
+
+#zebra a {
+    display: inline-block;
+    margin-bottom: 40px;
+    text-decoration: none;
+    color: #7f8c8d;
+    font-weight: bold;
+}
+
+#zebra a:hover {
+    color: #95a5a6;
+}

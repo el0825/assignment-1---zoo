@@ -1,0 +1,31 @@
+#elephant {
+    font-family: Verdana, sans-serif;
+    background-color: #E8EAF6;
+    text-align: center;
+    color: #333;
+}
+
+#elephant img {
+    border-radius: 10px;
+    margin: 20px 0;
+    width: 400px;
+}
+
+#elephant p {
+    width: 80%;
+    margin: 0 auto 30px;
+    font-size: 18px;
+    line-height: 1.5;
+}
+
+#elephant a {
+    display: inline-block;
+    margin-bottom: 40px;
+    text-decoration: none;
+    color: #34495e;
+    font-weight: bold;
+}
+
+#elephant a:hover {
+    color: #2c3e50;
+}

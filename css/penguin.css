@@ -1,0 +1,31 @@
+#penguin {
+    font-family: Arial, sans-serif;
+    background-color: #E0F7FA;
+    text-align: center;
+    color: #333;
+}
+
+#penguin img {
+    border-radius: 10px;
+    margin: 20px 0;
+    width: 400px;
+}
+
+#penguin p {
+    width: 80%;
+    margin: 0 auto 30px;
+    font-size: 18px;
+    line-height: 1.5;
+}
+
+#penguin a {
+    display: inline-block;
+    margin-bottom: 40px;
+    text-decoration: none;
+    color: #2980b9;
+    font-weight: bold;
+}
+
+#penguin a:hover {
+    color: #3498db;
+}
