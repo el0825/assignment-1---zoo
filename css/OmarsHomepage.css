@@ -1,6 +1,6 @@
 h1 {
   font-size: 3rem;
-  color: #006699;
+  color: #782525;
   text-align: center;
   margin-top: 20px;
   margin-bottom: 10px;
@@ -11,7 +11,7 @@ h1 {
 
 h3 {
   font-size: 1.2rem;
-  color: #555;
+  color: #842424;
   text-align: center;
   margin-bottom: 40px;
   font-weight: normal;
@@ -27,12 +27,12 @@ h3 {
 
 .card a {
   display: block;
-  background: white;
+  background: #faf3e0;
   padding: 150px;
   width: 150px;
   text-align: center;
   text-decoration:wavy;
-  color: #121212;
+  color: #333;
   font-weight:bolder;
   border-radius: 30px;
   box-shadow: 0 4px 10px rgba(95, 157, 223, 0.15);
