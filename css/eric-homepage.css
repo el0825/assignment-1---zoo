@@ -1,0 +1,7 @@
+body {
+    background: url('../img/zooBackground.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: Gill Sans, sans-serif;
+    text-align: center;
+}
