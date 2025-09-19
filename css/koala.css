@@ -1,0 +1,23 @@
+body {
+  background: #f0f0f0; /* soft gray */
+  font-family: Arial, sans-serif;
+  text-align: center;
+  padding: 20px;
+}
+
+h1 {
+  color: #555;
+}
+
+p {
+  font-size: 18px;
+  line-height: 1.6;
+  max-width: 600px;
+  margin: 16px auto;
+}
+
+img {
+  max-width: 320px;
+  border-radius: 10px;
+  margin: 12px 0;
+}
